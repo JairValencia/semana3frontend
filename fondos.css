@@ -1,0 +1,250 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.barra,.barra2{
+    display: flex;
+}
+.h1-tam1{
+    width: 27%;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.h1-tam2,.h1-tam3,.h1-tam4,.h1-tam5{
+    margin-top: 50px;
+    width: 8%;
+    margin-bottom: 50px;
+}
+.h1-tam6{
+    margin-top: 35px;
+    width: 20%;
+    margin-bottom: 50px;
+}
+.boton{
+    background-color: #2949c7;
+    color: #eef3ff;
+    padding: 14px 30px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+.h1-enmedio{
+    background: no-repeat;
+    background-image : url('./images/imagen1.JPG');
+    background-position: right;
+    background-size:contain;
+    margin-top: 50px;
+}
+.centro1{
+    display: flex;
+}
+.texto1{
+    width: 35%;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.letras-grandes{
+    font-size: 35px;
+}
+.separar,.box2-1,.h4-c3,.h4-c1{
+    display: flex;
+}
+.texto2{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.texto3{
+    margin-top: 80px;
+    color: #224073;
+    display: flex;
+    align-items: center;
+}
+.h1-t1,.h1-t2,.h1-t3,.h1-t6{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+}
+.h1-t7{
+    width: 100%;
+    margin-top: 45px;
+    margin-bottom: 0px;
+    margin-left: 80px;
+}
+.barra2{
+    width: 55%;
+    background-color:white;
+    margin:auto;
+    border-radius: 5px;
+}
+.t3{
+    width: 100%;
+    margin-left: 95px;
+    margin-bottom: 5px;
+    align-items:center;
+}
+.h1-fin{
+    background: no-repeat;
+    background-image : url('./images/imagen2.JPG');
+    background-size:contain;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.letras-grandes2{
+    font-size: 25px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.letras-grandes3{
+    font-size: 25px;
+    margin-bottom: 50px ;
+}
+.h2-centro{
+    display: flex;
+    margin-left: 175px;
+}
+.h3-centro{
+    margin-left: 50%;
+}
+.caja{
+    background-color: white;
+    border-color: #eef3f9;
+    border-style:solid;
+    border-radius: 5px;
+    padding: 14px 30px;
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+}
+.h2-tex{
+    margin-bottom: 50px;
+}
+.icono{
+    width: 20%;
+    background-color: #f1f5ff;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.icons1{
+    width: 15%;
+    background-color: #fff9e4;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.icon{
+    background-color: #f1f5ff;
+    margin-inline: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.icon2{
+    background-color: #f1f5ff;
+    margin: 5px;
+    margin-left: auto;
+}
+.parte1,.parte2{
+    display: flex;
+    margin-left: 10px;
+    width: 40%;
+    align-items: center;
+}
+.h1-t1{
+    display: flex;
+    align-items: center;
+}
+.h3-fondo{
+    background: no-repeat;
+    background-image : url('./images/imagen3.JPG');
+    background-position:left;
+    background-size:contain;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.h4-fondo{
+    background: no-repeat;
+    background-image : url('./images/imagen4.JPG');
+    background-position:right;
+    background-size:contain;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.h3-texto{
+    margin-bottom: 50px;
+}
+.h4-c1{
+    width: 40%;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+.h4-c2{
+    width: 100%;
+    background-color: white;
+    border:solid;
+    border-color: #eef3f9;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.h4-c3{
+    padding: 10px 25px;
+    margin: 10px;
+}
+.box2{
+    margin-bottom: 10px;
+    width: 60%;
+}
+.box2-1{
+    background-color: white;
+    border-color: #eef3f9;
+    border-style: solid;
+    border-radius: 5px;
+    align-items: center;
+}
+footer{
+    background-color: #eef3ff;
+}
+.pie{
+        display: flex;
+}
+.color1{
+    color:  #2949c7;
+}
+.color2{
+    color:  #8995aa;
+}
+.color3{
+    color: #1f3e72;
+}
+.color4{
+    color:  #8995aa;
+    font-size: 13px;
+}
+.box{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.box-tam2{
+    width: 15%;
+    margin-top: 50px;
+}
+.grupo-2{
+    display: flex;
+}
+.box3{
+    width: 70%;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+.box4{
+    width: 30%;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
